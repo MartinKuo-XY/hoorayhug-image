@@ -1,0 +1,13 @@
+{
+    "name": "hoorayhug/hoorayhug-image",
+    "description": "HoorayHug Image is a simple PHP and SQLite image hosting application.",
+    "type": "project",
+    "license": "GPL-3.0",
+    "authors": [
+        {
+            "name": "HoorayHug"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}

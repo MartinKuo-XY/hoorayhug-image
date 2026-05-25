@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="360" height="120" viewBox="0 0 360 120" role="img" aria-label="HoorayHug Image">
+  <rect width="360" height="120" rx="12" fill="none"/>
+  <g transform="translate(12 22)">
+    <rect x="0" y="0" width="76" height="76" rx="18" fill="#0f766e"/>
+    <path d="M18 54 34 36l13 13 11-16 18 21H18Z" fill="#ffffff"/>
+    <circle cx="51" cy="25" r="7" fill="#f8d24e"/>
+  </g>
+  <text x="104" y="54" font-family="Arial, Helvetica, sans-serif" font-size="30" font-weight="700" fill="#f8fafc">HoorayHug</text>
+  <text x="104" y="84" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="500" fill="#67e8f9">Image</text>
+</svg>

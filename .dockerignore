@@ -1,0 +1,9 @@
+data/imgurl.db3
+data/install.lock
+data/temp/*
+imgs/*
+!imgs/index.html
+application/cache/*
+!application/cache/index.html
+application/logs/*
+!application/logs/index.html

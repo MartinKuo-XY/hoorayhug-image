@@ -1,0 +1,10 @@
+services:
+  hoorayhug-image:
+    image: ${IMAGE_REF:?IMAGE_REF is required}
+    container_name: hoorayhug-image
+    restart: unless-stopped
+    ports:
+      - "${APP_PORT:-8080}:80"
+    volumes:
+      - ./data:/var/www/html/data
+      - ./imgs:/var/www/html/imgs
