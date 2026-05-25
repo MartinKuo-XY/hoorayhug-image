@@ -1,1 +1,0 @@
-# hoorayhug-image
